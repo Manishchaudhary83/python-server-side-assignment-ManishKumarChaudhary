@@ -1,0 +1,17 @@
+[
+    {
+        "name": "pen",
+        "price": 20,
+        "quantity": 10
+    },
+    {
+        "name": "Bottle",
+        "price": 100,
+        "quantity": 5
+    },
+    {
+        "name": "Bag",
+        "price": 500,
+        "quantity": 10
+    }
+]
